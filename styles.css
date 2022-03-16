@@ -1,0 +1,16 @@
+.section {
+   width: 33%;
+  float: right;
+  background-color: yellow;
+ 
+}
+img {
+  width: 100%;
+}
+.heading {
+  text-align: center;
+  background-color: rgb(102, 100, 100);
+  padding: 20px;
+  color: white;
+  font-size: 30px;
+}
